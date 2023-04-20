@@ -1,0 +1,4 @@
+Akhil,101,Pune,A
+Priya,102,Mumbai,A
+Sahil,103,Pune,B
+Pankaj,104,Mumbai,B
